@@ -11,7 +11,7 @@ touch webpack.config.js
 
 ./node_modules/.bin/webpack -d
 
-client/app/index.jsx
+touch client/app/index.jsx
 
 mpn i babel-loader babel-preset-es-2015 babel-preset-react -S
 
