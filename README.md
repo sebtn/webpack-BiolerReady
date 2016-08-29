@@ -13,7 +13,7 @@ touch webpack.config.js
 
 touch client/app/index.jsx
 
-mpn i babel-loader babel-preset-es-2015 babel-preset-react -S
+npm i babel-loader babel-preset-es2015 babel-preset-react -S
 
 touch .babelrc
 
